@@ -1,0 +1,122 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Build directories
+build/
+dist/
+out/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Dependency directories
+jspm_packages/
+.eslintcache
+
+# TypeScript
+*.tsbuildinfo
+
+# Production environment variables
+.env
+.env.production
+.env.local
+.env.*.local
+
+# Next.js
+.next/
+out/
+
+# Gatsby files
+.cache/
+public/
+
+# Svelte files
+__sapper__/
+public/
+
+# Supabase
+supabase/.temp/
+
+# Parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# Storybook files
+storybook-static/
+
+# Uncomment if you have tests
+# *.snap
+# coverage/
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+!.gitkeep
+!.prettierignore
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Debug files
+*.log
+
+# MacOS
+.DS_Store
+
+# Others
+npm-debug.log*
+yarn-debug.log*
+.pnp
+.pnp.js
+.vscode/
+.history/
+*.code-workspace
+.vs/
+*.pdb
+*.mdb
+*.so
+*.pid
+*.seed
+*.seed.*
+*.csv
+*.tgz
+*.cr
+*.o
+*.out
+*.pc
+*.psd
+*.proto
+*.ttf
+*.log
+*.patch
+*.diff
+*.rej
+*.err
+*.orig
+*.sublime-project
+*.sublime-workspace
+*.tmproj
+*.hmap
+*.ipa
+*.pxd
+*.egg-info/
+*.coveragerc
+*.dir-locals.el
