@@ -39,11 +39,9 @@ out/
 
 # Gatsby files
 .cache/
-public/
 
 # Svelte files
 __sapper__/
-public/
 
 # Supabase
 supabase/.temp/
