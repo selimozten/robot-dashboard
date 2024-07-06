@@ -114,8 +114,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please reach out to Selim Ozten at [selim.ozten@example.com](mailto:selim.ozten@example.com).
-
----
-
-*Note: Update any placeholders like `your-supabase-url`, `your-supabase-anon-key`, and `selim.ozten@example.com` with actual values relevant to your project.*
+For any inquiries or feedback, please reach out to Selim Ozten at [ozten@inpocket.ai](mailto:ozten@inpocket.ai).
